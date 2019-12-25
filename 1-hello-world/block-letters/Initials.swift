@@ -1,10 +1,10 @@
-// Sonny Li
-// Fun Fact: I played guitar in a band called Attica.
+// Akshar Goyal
+// I like animals and food
 
-print("  SSS   L     ")
-print(" S   S  L     ")
-print(" S      L     ")
-print("  SSS   L     ")
-print("     S  L     ")
-print(" S   S  L     ")
-print("  SSS   LLLLL ")
+print("   A     GGG  ")
+print("  A A   G   G ")
+print(" A   A  G     ")
+print(" AAAAA  GGGGG ")
+print(" A   A  G   G ")
+print(" A   A  G   G ")
+print(" A   A   GGG  ")
